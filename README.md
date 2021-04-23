@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flitbip
-- 👀 I’m interested in tech to help people
-- 🌱 I’m currently learning modern c++ and rust for Cortex-M33 microcontrollers 
-- 💞️ I’m looking to collaborate on anything interesting
+- 👀 I’m interested in tech to help people.
+- 🌱 I’m mostly a C developer for IoT, but currently learning modern c++ and rust for Cortex-M33 microcontrollers.
+- 💞️ I’m looking to collaborate on anything interesting related to music || embedded microcontrollers.
 - 📫 let myEmail = "flitbi" + "p" + "@gmail.com"
 
 <!---
